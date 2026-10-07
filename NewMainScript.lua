@@ -1,6 +1,6 @@
 -- RECEBA bootstrap
 -- Edite somente estas duas linhas antes de subir ao GitHub.
-local REPO_OWNER = 'SEU_USUARIO_GITHUB'
+local REPO_OWNER = 'dedicalango'
 local REPO_NAME = 'RECEBACompiled'
 
 for _, folder in {'receba', 'receba/profiles'} do
