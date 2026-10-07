@@ -1,0 +1,3 @@
+Troque SEU_USUARIO_GITHUB pelo seu usuario do GitHub:
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/RECEBA/main/NewMainScript.lua", true))()
